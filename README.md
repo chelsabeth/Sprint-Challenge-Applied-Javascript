@@ -30,7 +30,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-`the DOM is a document object model`
+`the DOM is the document object model`
 
 2. What is an event?
 
@@ -42,7 +42,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Why would we convert a NodeList into an Array?
 
-`so that we can access and API?`
+`so that we can access an API?`
 
 5. What is a component?
 
