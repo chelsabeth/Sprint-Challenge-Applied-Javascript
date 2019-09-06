@@ -24,6 +24,10 @@ function Header() {
     newHeader.appendChild(title);
     newHeader.appendChild(temp);
 
+    date.textContent = 'September 6, 2019';
+    title.textContent = 'Lambda Times';
+    temp.textContent = '68°';
+
     return newHeader;
 }
 
